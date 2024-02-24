@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AsadShahi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on github...
-- 📫 How to reach me ...
+-👋 Hi there, I'm @AsadShahi, a React Developer!
+-👀 I'm passionate about web development.
+-🌱 Currently diving into Next.js and TypeScript to level up my skills!
+-💼 Excited to secure a remote Front End job opportunity.
 
 <!---
 AsadShahi/AsadShahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
