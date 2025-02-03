@@ -12,8 +12,7 @@ Here are some of the technologies and tools I work with:
 - **Backend**: Node.js, Express.js,,Nest.js,Laravel
 - **Database**: MongoDB, Mysql,Postgree Sql
 - **Tools**: Git, GitHub,Figma,PostMan and etc...
-- **Learning**: Web soket, GraphQL, Docker,pwa
-
+- **Learning**: Web soket, GraphQL, Docker,pwa,nest.js,pwa
 
 ## 🌱 What I'm Up To
 - 🔭 Currently working on Afghanistan Art gollery projects to sharpen my skills in **Next.js** and **Node.js**.
@@ -25,8 +24,9 @@ Here are some of the technologies and tools I work with:
 ## 🚀 Work Experience 
 Here are some of the projects I've worked on:
 
-### [https://afghantenders.com/)
+### full stack development and maintenance [https://afghantenders.com/) 
 
+### Mobile software and Hardware Engineering part time in meligsm.com (2013-2022) 
 
 ---
 
