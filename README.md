@@ -11,7 +11,7 @@ Here are some of the technologies and tools I work with:
 - **Frontend**: React.js, Next.js,TypeScript, HTML, CSS, JavaScript, Tailwind CSS,Bootstrap,Sass
 - **Backend**: Node.js, Express.js,,Nest.js,Laravel
 - **Database**: MongoDB, Mysql,Postgree Sql
-- **Tools**: Git, GitHub, VS Code, Figma
+- **Tools**: Git, GitHub,Figma,PostMan and etc...
 - **Learning**: Web soket, GraphQL, Docker,pwa
 
 
