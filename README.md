@@ -25,7 +25,7 @@ Here are some of the technologies and tools I work with:
 Here are some of the projects I've worked on:
 
 ### full stack development and maintenance [https://afghantenders.com/) 
-
+### Mern Stack Developer [https://art-gollery.vercel.app/]
 ### Mobile software and Hardware Engineering part time in meligsm.com (2013-2022) 
 
 ---
